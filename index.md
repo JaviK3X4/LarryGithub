@@ -1,4 +1,4 @@
-#�ndice
+﻿#índice
 
 * Larry Plotter y El bucle filosofal
 * Larry Plotter y La clave secreta del Wifi
